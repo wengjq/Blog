@@ -9,6 +9,7 @@
 4. [javaScript的数据结构与算法（四）——字典和散列表](https://github.com/wengjq/Blog/issues/7)
 5. [javaScript的数据结构与算法（五）——树](https://github.com/wengjq/Blog/issues/8)
 6. [javaScript的数据结构与算法（六）——图](https://github.com/wengjq/Blog/issues/9)
+7. [javaScript的数据结构与算法（七）——排序与搜索算法](https://github.com/wengjq/Blog/issues/10)
 
 ## [其他](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%85%B6%E4%BB%96)
 1. [4种JavaScript内存泄漏浅析及如何用谷歌工具查内存泄露](https://github.com/wengjq/Blog/issues/1)
