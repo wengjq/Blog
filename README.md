@@ -15,4 +15,5 @@
 1. [4种JavaScript内存泄漏浅析及如何用谷歌工具查内存泄露](https://github.com/wengjq/Blog/issues/1)
 2. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
 3. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
+4. [用canvas实现流星特效](https://github.com/wengjq/Blog/issues/11)
 
