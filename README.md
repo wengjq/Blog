@@ -16,6 +16,7 @@
 2. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
 3. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
 4. [用canvas实现流星特效](https://github.com/wengjq/Blog/issues/11)
+5. [前端最佳实践（一）——DOM操作](https://github.com/wengjq/Blog/issues/14)
 
 ## [Css](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ACss)
 1. [用css自定义虚线边框](https://github.com/wengjq/Blog/issues/12)
