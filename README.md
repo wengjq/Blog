@@ -23,6 +23,9 @@
 ## [Canvas](https://github.com/wengjq/Blog/labels/Canvas)
 1. [用canvas实现流星特效](https://github.com/wengjq/Blog/issues/11)
 
+## [技巧](https://github.com/wengjq/Blog/labels/Canvas)
+1. [js技巧篇--钩子写法](https://github.com/wengjq/Blog/issues/16)
+
 ## [原理](https://github.com/wengjq/Blog/labels/%E5%8E%9F%E7%90%86)
 1. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
 2. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
