@@ -20,8 +20,12 @@
 1. [用css自定义虚线边框](https://github.com/wengjq/Blog/issues/12)
 2. [垂直居中](https://github.com/wengjq/Blog/issues/13)
 
+## [Canvas](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%85%B6%E4%BB%96)
+1. [用canvas实现流星特效](https://github.com/wengjq/Blog/issues/11)
+
 ## [其他](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%85%B6%E4%BB%96)
 1. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
 2. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
-3. [用canvas实现流星特效](https://github.com/wengjq/Blog/issues/11)
+
+
 
