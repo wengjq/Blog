@@ -28,6 +28,7 @@
 
 ## [技巧](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%8A%80%E5%B7%A7)
 1. [js技巧篇--钩子写法](https://github.com/wengjq/Blog/issues/16)
+2. [js技巧篇--观察者模式](https://github.com/wengjq/Blog/issues/18)
 
 ## [原理](https://github.com/wengjq/Blog/labels/%E5%8E%9F%E7%90%86)
 1. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
