@@ -12,7 +12,7 @@
 7. [javaScript的数据结构与算法（七）——排序与搜索算法](https://github.com/wengjq/Blog/issues/10)
 
 ## [Jquery](https://github.com/wengjq/Blog/labels/Jquery)
-1.[$.Callbacks()](https://github.com/wengjq/Blog/issues/19)
+1.[$.Callbacks() 的使用](https://github.com/wengjq/Blog/issues/19)
 
 ## [Vue](https://github.com/wengjq/Blog/labels/Vue)
 1. [深入理解Vue单向数据流](https://github.com/wengjq/Blog/issues/17)
