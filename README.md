@@ -36,6 +36,6 @@
 ## [原理](https://github.com/wengjq/Blog/labels/%E5%8E%9F%E7%90%86)
 1. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
 2. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
-
+3. [javaScript原型浅析](https://github.com/wengjq/Blog/issues/20)
 
 
