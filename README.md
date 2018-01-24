@@ -37,5 +37,5 @@
 1. [前端跨域问题及解决方案](https://github.com/wengjq/Blog/issues/2)
 2. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
 3. [javaScript原型浅析](https://github.com/wengjq/Blog/issues/20)
-
+4. [从一道前端笔试题分析 javascript 中 this 的使用陷阱](https://github.com/wengjq/Blog/issues/21)
 
