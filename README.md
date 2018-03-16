@@ -16,6 +16,7 @@
 
 ## [Vue](https://github.com/wengjq/Blog/labels/Vue)
 1. [深入理解Vue单向数据流](https://github.com/wengjq/Blog/issues/17)
+2. [为什么 es5 不能完美继承数组](https://github.com/wengjq/Blog/issues/22)
 
 ## [前端性能](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
 1. [4种JavaScript内存泄漏浅析及如何用谷歌工具查内存泄露](https://github.com/wengjq/Blog/issues/1)
