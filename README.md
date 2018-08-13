@@ -21,6 +21,7 @@
 ## [前端性能](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
 1. [4种JavaScript内存泄漏浅析及如何用谷歌工具查内存泄露](https://github.com/wengjq/Blog/issues/1)
 2. [前端最佳实践（一）——DOM操作](https://github.com/wengjq/Blog/issues/14)
+3. [前端最佳实践（二）——能力检测](https://github.com/wengjq/Blog/issues/23)
 3. [什么？页面卡顿？操作慢？](https://github.com/wengjq/Blog/issues/15)
 
 ## [Css](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ACss)
