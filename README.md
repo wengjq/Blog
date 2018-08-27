@@ -10,6 +10,7 @@
 5. [javaScript的数据结构与算法（五）——树](https://github.com/wengjq/Blog/issues/8)
 6. [javaScript的数据结构与算法（六）——图](https://github.com/wengjq/Blog/issues/9)
 7. [javaScript的数据结构与算法（七）——排序与搜索算法](https://github.com/wengjq/Blog/issues/10)
+8. [javaScript的数据结构与算法（八）——回溯算法](https://github.com/wengjq/Blog/issues/24)
 
 ## [Jquery](https://github.com/wengjq/Blog/labels/Jquery)
 1.[$.Callbacks() 的使用](https://github.com/wengjq/Blog/issues/19)
