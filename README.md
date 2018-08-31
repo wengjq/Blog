@@ -13,10 +13,10 @@
 8. [javaScript 的数据结构与算法（八）——回溯算法](https://github.com/wengjq/Blog/issues/24)
 
 ## [Jquery](https://github.com/wengjq/Blog/labels/Jquery)
-1.[$.Callbacks() 的使用](https://github.com/wengjq/Blog/issues/19)
+1. [$.Callbacks() 的使用](https://github.com/wengjq/Blog/issues/19)
 
 ## [Node](https://github.com/wengjq/Blog/labels/Node)
-1.[co 源码分析](https://github.com/wengjq/Blog/issues/25)
+1. [co 源码分析](https://github.com/wengjq/Blog/issues/25)
 
 ## [Vue](https://github.com/wengjq/Blog/labels/Vue)
 1. [深入理解 Vue 单向数据流](https://github.com/wengjq/Blog/issues/17)
