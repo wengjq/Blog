@@ -44,4 +44,5 @@
 2. [javaScript中浅拷贝和深拷贝的实现](https://github.com/wengjq/Blog/issues/3)
 3. [javaScript原型浅析](https://github.com/wengjq/Blog/issues/20)
 4. [从一道前端笔试题分析 javascript 中 this 的使用陷阱](https://github.com/wengjq/Blog/issues/21)
+5. [如何让秒杀、活动倒计时更“精确”?](https://github.com/wengjq/Blog/issues/26)
 
