@@ -17,6 +17,7 @@
 
 ## [Node](https://github.com/wengjq/Blog/labels/Node)
 1. [co 源码分析](https://github.com/wengjq/Blog/issues/25)
+2. [through2 源码分析](https://github.com/wengjq/Blog/issues/27)
 
 ## [Vue](https://github.com/wengjq/Blog/labels/Vue)
 1. [深入理解 Vue 单向数据流](https://github.com/wengjq/Blog/issues/17)
