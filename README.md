@@ -22,13 +22,15 @@
 ## [Vue](https://github.com/wengjq/Blog/labels/Vue)
 1. [深入理解 Vue 单向数据流](https://github.com/wengjq/Blog/issues/17)
 2. [为什么 es5 不能完美继承数组](https://github.com/wengjq/Blog/issues/22)
-2. [Vue 模板 AST](https://github.com/wengjq/Blog/issues/28)
+3. [Vue 模板 AST](https://github.com/wengjq/Blog/issues/28)
 
 ## [前端性能](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
 1. [4 种 JavaScript 内存泄漏浅析及如何用谷歌工具查内存泄露](https://github.com/wengjq/Blog/issues/1)
 2. [前端最佳实践（一）—— DOM 操作](https://github.com/wengjq/Blog/issues/14)
 3. [前端最佳实践（二）—— 能力检测](https://github.com/wengjq/Blog/issues/23)
-3. [什么？页面卡顿？操作慢？](https://github.com/wengjq/Blog/issues/15)
+4. [前端最佳实践（三）—— Lighthouse 应用最佳实践](https://github.com/wengjq/Blog/issues/30)
+5. [什么？页面卡顿？操作慢？](https://github.com/wengjq/Blog/issues/29)
+6. [Lighthouse 的使用](https://github.com/wengjq/Blog/issues/15)
 
 ## [Css](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ACss)
 1. [用 css 自定义虚线边框](https://github.com/wengjq/Blog/issues/12)
