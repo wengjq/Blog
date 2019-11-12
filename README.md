@@ -29,8 +29,8 @@
 2. [前端最佳实践（一）—— DOM 操作](https://github.com/wengjq/Blog/issues/14)
 3. [前端最佳实践（二）—— 能力检测](https://github.com/wengjq/Blog/issues/23)
 4. [前端最佳实践（三）—— Lighthouse 应用最佳实践](https://github.com/wengjq/Blog/issues/30)
-5. [什么？页面卡顿？操作慢？](https://github.com/wengjq/Blog/issues/29)
-6. [Lighthouse 的使用](https://github.com/wengjq/Blog/issues/15)
+5. [什么？页面卡顿？操作慢？](https://github.com/wengjq/Blog/issues/15)
+6. [Lighthouse 的使用](https://github.com/wengjq/Blog/issues/29)
 
 ## [Css](https://github.com/wengjq/Blog/issues?q=is%3Aissue+is%3Aopen+label%3ACss)
 1. [用 css 自定义虚线边框](https://github.com/wengjq/Blog/issues/12)
